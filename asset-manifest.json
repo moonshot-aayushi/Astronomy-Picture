@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moonshot-aayushi/NASA-Apod.git/static/css/main.5bb65448.chunk.css",
+    "main.js": "/moonshot-aayushi/NASA-Apod.git/static/js/main.984aa528.chunk.js",
+    "main.js.map": "/moonshot-aayushi/NASA-Apod.git/static/js/main.984aa528.chunk.js.map",
+    "runtime-main.js": "/moonshot-aayushi/NASA-Apod.git/static/js/runtime-main.ab773fc1.js",
+    "runtime-main.js.map": "/moonshot-aayushi/NASA-Apod.git/static/js/runtime-main.ab773fc1.js.map",
+    "static/js/2.6d0840d6.chunk.js": "/moonshot-aayushi/NASA-Apod.git/static/js/2.6d0840d6.chunk.js",
+    "static/js/2.6d0840d6.chunk.js.map": "/moonshot-aayushi/NASA-Apod.git/static/js/2.6d0840d6.chunk.js.map",
+    "index.html": "/moonshot-aayushi/NASA-Apod.git/index.html",
+    "precache-manifest.d3d7dfd535f30ef73ccedc02118e31b6.js": "/moonshot-aayushi/NASA-Apod.git/precache-manifest.d3d7dfd535f30ef73ccedc02118e31b6.js",
+    "service-worker.js": "/moonshot-aayushi/NASA-Apod.git/service-worker.js",
+    "static/css/main.5bb65448.chunk.css.map": "/moonshot-aayushi/NASA-Apod.git/static/css/main.5bb65448.chunk.css.map",
+    "static/js/2.6d0840d6.chunk.js.LICENSE.txt": "/moonshot-aayushi/NASA-Apod.git/static/js/2.6d0840d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab773fc1.js",
+    "static/js/2.6d0840d6.chunk.js",
+    "static/css/main.5bb65448.chunk.css",
+    "static/js/main.984aa528.chunk.js"
+  ]
+}
